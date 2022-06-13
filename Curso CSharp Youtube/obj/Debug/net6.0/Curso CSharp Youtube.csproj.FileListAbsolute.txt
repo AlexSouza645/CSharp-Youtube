@@ -1,0 +1,15 @@
+C:\Users\alexm\OneDrive\alex\Documentos\GitHub\CSharp Youtube\Curso CSharp Youtube\bin\Debug\net6.0\Curso CSharp Youtube.exe
+C:\Users\alexm\OneDrive\alex\Documentos\GitHub\CSharp Youtube\Curso CSharp Youtube\bin\Debug\net6.0\Curso CSharp Youtube.deps.json
+C:\Users\alexm\OneDrive\alex\Documentos\GitHub\CSharp Youtube\Curso CSharp Youtube\bin\Debug\net6.0\Curso CSharp Youtube.runtimeconfig.json
+C:\Users\alexm\OneDrive\alex\Documentos\GitHub\CSharp Youtube\Curso CSharp Youtube\bin\Debug\net6.0\Curso CSharp Youtube.dll
+C:\Users\alexm\OneDrive\alex\Documentos\GitHub\CSharp Youtube\Curso CSharp Youtube\bin\Debug\net6.0\Curso CSharp Youtube.pdb
+C:\Users\alexm\OneDrive\alex\Documentos\GitHub\CSharp Youtube\Curso CSharp Youtube\obj\Debug\net6.0\Curso CSharp Youtube.csproj.AssemblyReference.cache
+C:\Users\alexm\OneDrive\alex\Documentos\GitHub\CSharp Youtube\Curso CSharp Youtube\obj\Debug\net6.0\Curso CSharp Youtube.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexm\OneDrive\alex\Documentos\GitHub\CSharp Youtube\Curso CSharp Youtube\obj\Debug\net6.0\Curso CSharp Youtube.AssemblyInfoInputs.cache
+C:\Users\alexm\OneDrive\alex\Documentos\GitHub\CSharp Youtube\Curso CSharp Youtube\obj\Debug\net6.0\Curso CSharp Youtube.AssemblyInfo.cs
+C:\Users\alexm\OneDrive\alex\Documentos\GitHub\CSharp Youtube\Curso CSharp Youtube\obj\Debug\net6.0\Curso CSharp Youtube.csproj.CoreCompileInputs.cache
+C:\Users\alexm\OneDrive\alex\Documentos\GitHub\CSharp Youtube\Curso CSharp Youtube\obj\Debug\net6.0\Curso CSharp Youtube.dll
+C:\Users\alexm\OneDrive\alex\Documentos\GitHub\CSharp Youtube\Curso CSharp Youtube\obj\Debug\net6.0\refint\Curso CSharp Youtube.dll
+C:\Users\alexm\OneDrive\alex\Documentos\GitHub\CSharp Youtube\Curso CSharp Youtube\obj\Debug\net6.0\Curso CSharp Youtube.pdb
+C:\Users\alexm\OneDrive\alex\Documentos\GitHub\CSharp Youtube\Curso CSharp Youtube\obj\Debug\net6.0\Curso CSharp Youtube.genruntimeconfig.cache
+C:\Users\alexm\OneDrive\alex\Documentos\GitHub\CSharp Youtube\Curso CSharp Youtube\obj\Debug\net6.0\ref\Curso CSharp Youtube.dll
